@@ -6,4 +6,5 @@
 
 | Session Title  | Speaker | Slides | Demo Scripts | Videos |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Start-NewEra -Repo PowerShell | Ben Gelens | [Slides](https://github.com/psconfeu/2017/blob/master/Ben%20Gelens/OSS%20xPlat%20PowerShell/OSS%20PS.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Ben%20Gelens/OSS%20xPlat%20PowerShell/Demo.zip) |  |
 |  |  |  |  |  |
