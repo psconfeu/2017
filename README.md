@@ -22,4 +22,10 @@
 | Using the SQL Provider | [Rob Sewell](https://github.com/DBAWithABeard) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Rob%20Sewell/Using%20the%20SQL%20Provider/Using%20the%20SQL%20provider.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Rob%20Sewell/Using%20the%20SQL%20Provider/Using%20the%20SQL%20Provider.ps1) |  |
 | Advanced PowerShell Module Development with Visual Studio Code | [David Wilson](https://github.com/daviwil) | English | [Slides](https://github.com/psconfeu/2017/blob/master/David%20Wilson/Advanced%20PowerShell%20Module%20Development%20with%20Visual%20Studio%20Code.pptx) |  |  |
 | Auto-generated User Interfaces with Phosphor | [David Wilson](https://github.com/daviwil) | English | [Slides](https://github.com/psconfeu/2017/blob/master/David%20Wilson/Auto-generated%20User%20Interfaces%20with%20Phosphor.pptx) |  |  |
+| GUIs und Toolmaking mit PowerShell (Pre-Conf) | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides]() | [Demo Code]() |  |
+| Powershell Security Einführung (Pre-Conf) | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides]() | [Demo Code]() |  |
+| Powershell sicher im Unternehmen einsetzen | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides]() | [Demo Code]() |  |
+| AutomatedLab – das erste voll flexible Hydration Tool | Raimund Andrée & [David das Neves](https://github.com/ddneves) | Deutsch | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
+|  |  |  | [Slides]() | [Demo Code]() |  |
+
