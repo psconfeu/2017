@@ -1,0 +1,46 @@
+
+
+
+
+winrm get winrm/config
+
+
+
+
+
+Enabling WinRM 
+Browse to:
+
+
+Policies > Administrative Templates > Windows Components > Windows Remote Management (WinRM) > WinRM Service 
+ Open the “Allow Remote Server management through WinRM” policy setting (Server 2008 R2 and later).
+
+
+
+
+
+
+Open the “Allow automatic configuration of listeners” policy setting (Server 2008 and earlier). 
+Set the Policy to Enabled. 
+Set the IPv4 and IPv6 filters to * unless you need something specific there (check out the help on the right). 
+ In addition to this, you will have to enable WinRM service to start automatically on the client machines.
+ To configure the WinRM service to start automatically, navigate to Computer Configuration Policies > Windows Settings > Security Settings > System Services > Windows Remote Management,
+ Doubleclick on Windows Remote Management and configure the service startup mode to “Automatic”:
+
+Setting the Firewall Rules 
+
+
+
+ You need to create a new Inbound Rule under Computer Configuration > Windows Settings > Security Setting > Windows Firewall with Advanced Security > Windows Firewall with Advanced Security > Inbound Rules:
+
+
+
+  The WinRM port numbers are predefined as “Windows Remote Management”:
+With WinRM 2.0, the default http listener port changed   from TCP 80 to TCP 5985. The old port number are a part of the predefined scope for compatibility reasons, and may be excluded if you don`t have any legacy WinRM 1.1 listeners.
+When the rule is created, you may choose to make further restrictions, i.e. to only allow the IP addresses of your management subnet, or perhaps some specific user groups:
+ Note that this is the minimal configuration that we have done, there is a lot more you can do with the settings, but that is something beyond the scope of this article. Feel free to explore the policy settings.
+
+(Get-PSSessionConfiguration -Name Microsoft.PowerShell).Permission
+
+
+https://helpcenter.gsx.com/hc/en-us/articles/202447926-How-to-Configure-Windows-Remote-PowerShell-Access-for-Non-Privileged-User-Accounts
