@@ -2,7 +2,10 @@
 
 ## COMING SOON! Session slides, demo code and video links!
 
-**Note to Speakers**: Please add a folder with your name and put your session content inside that, putting the demos for a single session into a .zip file. One of us (Ravikanth or Amanda) will update the table after we accept your pull request. If you'd prefer, give us a shout and we'll upload it for you :)
+**Note to Speakers**: 
+- Please add a folder with your name, and then make a folder below that for each of your sessions, putting the all of the demos for each session into a .zip file. 
+- DO NOT update README.md with your sessions - one of us (Ravikanth or Amanda) will update the table after we accept your pull request. It's less work for us this way.
+- If you'd prefer not to mess with GitHub, give Amanda or Ravikanth a shout, and we'll add your session materials to the repository for you :)
 
 | Session Title  | Speaker | Audience | Slides | Demo Code | Videos |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -22,10 +25,10 @@
 | Using the SQL Provider | [Rob Sewell](https://github.com/DBAWithABeard) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Rob%20Sewell/Using%20the%20SQL%20Provider/Using%20the%20SQL%20provider.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Rob%20Sewell/Using%20the%20SQL%20Provider/Using%20the%20SQL%20Provider.ps1) |  |
 | Advanced PowerShell Module Development with Visual Studio Code | [David Wilson](https://github.com/daviwil) | English | [Slides](https://github.com/psconfeu/2017/blob/master/David%20Wilson/Advanced%20PowerShell%20Module%20Development%20with%20Visual%20Studio%20Code.pptx) |  |  |
 | Auto-generated User Interfaces with Phosphor | [David Wilson](https://github.com/daviwil) | English | [Slides](https://github.com/psconfeu/2017/blob/master/David%20Wilson/Auto-generated%20User%20Interfaces%20with%20Phosphor.pptx) |  |  |
-| GUIs und Toolmaking mit PowerShell (Pre-Conf) | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides]() | [Demo Code]() |  |
-| Powershell Security Einführung (Pre-Conf) | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides]() | [Demo Code]() |  |
-| Powershell sicher im Unternehmen einsetzen | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides]() | [Demo Code]() |  |
-| AutomatedLab – das erste voll flexible Hydration Tool | Raimund Andrée & [David das Neves](https://github.com/ddneves) | Deutsch | [Slides]() | [Demo Code]() |  |
+| GUIs und Toolmaking mit PowerShell (Pre-Conf) | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/David%20das%20Neves/PSConfEU17_GUIs_Preconf/PSConfEU17_GUIs_Preconf.pdf) | [Demo Code](https://github.com/psconfeu/2017/blob/master/David%20das%20Neves/PSConfEU17_GUIs_Preconf/PSConfEU17_GUIs_Preconf.zip) |  |
+| Powershell Security Einführung (Pre-Conf) | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/David%20das%20Neves/PSConfEU17_Security_Preconf/PSConfEU17_Security_Preconf.pdf) | [Demo Code](https://github.com/psconfeu/2017/blob/master/David%20das%20Neves/PSConfEU17_Security_Preconf/PSConfEU17_Security_Preconf.zip) |  |
+| Powershell sicher im Unternehmen einsetzen | [David das Neves](https://github.com/ddneves) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/David%20das%20Neves/PSConfEU17_Security_Session/PSConfEU17_Security_Session.pdf) |  |  |
+| AutomatedLab – das erste voll flexible Hydration Tool | Raimund Andrée & [David das Neves](https://github.com/ddneves) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Raimund%20Andree%20%26%20David%20das%20Neves/PSConfEU2017_AutomatedLab/PSConfEU2017_AutomatedLab.pdf) |  |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 
