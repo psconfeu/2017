@@ -15,5 +15,7 @@
 | Regex 2.0 | Mathias R. Jessen | [Slides](https://github.com/psconfeu/2017/blob/master/Mathias%20R%20Jessen/regex2.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Mathias%20R%20Jessen/demo.zip) |  |
 | Automation in a Hybrid World | Jakob Gottlieb Svendsen | [Slides](https://github.com/psconfeu/2017/blob/master/Jakob%20Gottlieb%20Svendsen/PSCONFEU2017-JakobGSvendsen-Automation_in_a_hybrid_world_V1.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Jakob%20Gottlieb%20Svendsen/PSCONFEU2017-JakobGSvendsen-Automation_in_a_hybrid_world_V1.zip) |  |
 | Azure Automation - Advanced Runbook Design | Jakob Gottlieb Svendsen | [Slides](https://github.com/psconfeu/2017/blob/master/Jakob%20Gottlieb%20Svendsen/PSCONFEU2017-JakobGSvendsen-Azure_Automation_-_Advanced_Runbook_Design_V1.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Jakob%20Gottlieb%20Svendsen/PSCONFEU2017-JakobGSvendsen-Azure_Automation_-_Advanced_Runbook_Design_V1.zip) |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Hell Freezing Over: PowerShell on Linux | Bartosz Bielawski | [Slides](https://github.com/psconfeu/2017/blob/master/Bartosz%20Bielawski/HellFreezingOver/01_HellFreezing.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Bartosz%20Bielawski/HellFreezingOver/Demos-HellFreezing.zip) |  |
+| Knock, knock! Linux at Your Door! | Bartosz Bielawski | [Slides](https://github.com/psconfeu/2017/blob/master/Bartosz%20Bielawski/LinuxAtYourDoor/02_LinuxAtYourDoor.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Bartosz%20Bielawski/LinuxAtYourDoor/Demos-LinuxAtYourDoor.zip) |  |
+| TabExpansion++ | Bartosz Bielawski | [Slides](https://github.com/psconfeu/2017/blob/master/Bartosz%20Bielawski/TabExpansionPlusPlus/03_TabExpansionPlusPlus.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Bartosz%20Bielawski/TabExpansionPlusPlus/Demos-TabExpansionPlusPlus.zip) |  |
+|  |  | [Slides]() | [Demo Code]() |  |
