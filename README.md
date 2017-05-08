@@ -32,6 +32,14 @@
 | Breakdown the GUI - PowerShell logging to automate everything | [Jaap Brasser](https://github.com/jaapbrasser) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jaap%20Brasser/Breakdown%20the%20GUI%20-%20PowerShell%20logging%20to%20automate%20everything/Breakdown%20the%20GUI%20-%20PowerShell%20logging%20to%20automate%20everything.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Jaap%20Brasser/Breakdown%20the%20GUI%20-%20PowerShell%20logging%20to%20automate%20everything/Breakdown%20the%20GUI%20-%20PowerShell%20logging%20to%20automate%20everything.zip) |  |
 | Building Your Own JEA Configuration | [Jaap Brasser](https://github.com/jaapbrasser) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jaap%20Brasser/Building%20your%20own%20JEA%20Configuration/Building%20your%20own%20JEA%20Configuration.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Jaap%20Brasser/Building%20your%20own%20JEA%20Configuration/Building%20your%20own%20JEA%20Configuration.zip) |  |
 | PowerShell Uncensored | [Jaap Brasser](https://github.com/jaapbrasser) & Jason Yoder | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jason%20Yoder%20and%20Jaap%20Brasser/PowerShell%20Uncensored/PowerShell%20Uncensored.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Jason%20Yoder%20and%20Jaap%20Brasser/PowerShell%20Uncensored/PowerShell%20Uncensored.zip) |  |
+| PowerShell on Linux | [Jan-Hendrik Peters](https://github.com/nyanhp) | Deutsch | [Slides]() | [Demo Code]() |  |
+
+| Automated DC Deployment with DSC in the global BMW forest | Raimund Andrée & [Jan-Hendrik Peters](https://github.com/nyanhp) | Deutsch | [Slides]() | [Demo Code]() |  |
+| Azure 101 | Raimund Andrée & [Jan-Hendrik Peters](https://github.com/nyanhp) | Deutsch | [Slides]() | [Demo Code]() |  |
+| Mastering a complex DSC lab infrastructure - BMW Group DC Deployment | Raimund Andrée & [Jan-Hendrik Peters](https://github.com/nyanhp) | Deutsch | [Slides]() | [Demo Code]() |  |
+|  | [Matthew Hodgkins](https://github.com/MattHodge) | English | [Slides]() | [Demo Code]() |  |
+|  | [Flynn Bundy](https://github.com/flynnCoolblue) | English | [Slides]() | [Demo Code]() |  |
+|  | [Flynn Bundy](https://github.com/flynnCoolblue) | English | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 
