@@ -1,0 +1,94 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: PS Conf EU 2017 Demo Stack
+Resources:
+  LaunchConfiguration:
+    Type: "AWS::AutoScaling::LaunchConfiguration"
+    Properties:
+      AssociatePublicIpAddress: true
+      IamInstanceProfile: s3GetAccess
+      ImageId: ami-e1f6dc92
+      InstanceType: "t2.micro"
+      KeyName: "Flynn-mac"
+      SecurityGroups:
+        - !Ref "InstanceSecurityGroup"
+      UserData:
+          'Fn::Base64': !Sub |
+              <powershell>
+              Read-S3Object -BucketName powershell-dsc-mofs -Key Mofs.zip -File c:\mofs.zip
+              Expand-Archive C:\mofs.zip -DestinationPath C:\windows\Temp
+              Set-Location C:\windows\Temp
+              Read-S3Object -BucketName aws-codedeploy-eu-west-1 -Key latest/codedeploy-agent.msi -File c:\windows\temp\codedeploy-agent.msi
+              Start-Process "C:\windows\temp\codedeploy-agent.msi" -ArgumentList '/qn'
+              . .\Ec2UserData.ps1
+              </powershell>
+  AutoScalingGroup:
+    Type: "AWS::AutoScaling::AutoScalingGroup"
+    Properties:
+      AvailabilityZones:
+        - eu-west-1a
+        - eu-west-1c
+      DesiredCapacity: 2
+      LaunchConfigurationName: !Ref "LaunchConfiguration"
+      MinSize: 2
+      MaxSize: 2
+      TargetGroupARNs:
+        - !Ref "ALBTargetGroup"
+      VPCZoneIdentifier:
+        - subnet-085b727e
+        - subnet-50300134
+      Tags:
+       - Key: Application
+         Value: Beertime
+         PropagateAtLaunch: true
+       - Key: Environment
+         Value: Production
+         PropagateAtLaunch: true
+  InstanceSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Allow access to app from alb and rdp
+      VpcId: vpc-8beeb5ef
+      SecurityGroupIngress:
+      - IpProtocol: tcp
+        FromPort: '5000'
+        ToPort: '5000'
+        CidrIp: 0.0.0.0/0
+      - IpProtocol: tcp
+        FromPort: '3389'
+        ToPort: '3389'
+        CidrIp: 0.0.0.0/0
+      - IpProtocol: tcp
+        FromPort: '80'
+        ToPort: '80'
+        CidrIp: 0.0.0.0/0
+      - IpProtocol: tcp
+        FromPort: '443'
+        ToPort: '443'
+        CidrIp: 0.0.0.0/0
+  ApplicationLoadBalancer:
+    Type: AWS::ElasticLoadBalancingV2::LoadBalancer
+    Properties:
+      Subnets:
+      - subnet-085b727e
+      - subnet-50300134
+      SecurityGroups:
+        - Ref: InstanceSecurityGroup
+  ALBListener:
+    Type : AWS::ElasticLoadBalancingV2::Listener
+    Properties:
+      DefaultActions:
+        - Type: forward
+          TargetGroupArn: !Ref "ALBTargetGroup"
+      LoadBalancerArn: !Ref "ApplicationLoadBalancer"
+      Port: 80
+      Protocol: HTTP
+  ALBTargetGroup:
+    Type: AWS::ElasticLoadBalancingV2::TargetGroup
+    Properties:
+      HealthCheckIntervalSeconds: 10
+      UnhealthyThresholdCount: 2
+      HealthCheckPath: /
+      Name: BeerChecking
+      Port: 5000
+      Protocol: HTTP
+      VpcId: vpc-8beeb5ef
