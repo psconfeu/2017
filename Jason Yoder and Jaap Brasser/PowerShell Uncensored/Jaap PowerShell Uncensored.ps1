@@ -108,10 +108,10 @@ Get-News | Select-Object Topic -First 5
 Import-CliXml .\News.xml
 
 # Get Sentiment
-'It is great to be here at PSConfEU' | Get-Sentiment | Export-CliXml .\Great.xml
+'It is great to be here at PSConfEU' | Get-Sentiment
 Import-CliXml .\Great.xml
 
-'It is raining, I do not like the cold wet weather in Holland' | Get-Sentiment | Export-CliXml .\Holland.xml
+'It is raining, I do not like the cold wet weather in Holland' | Get-Sentiment
 Import-CliXml .\Holland.xml
 
 Get-News | Select Topic,@{n='Sentiment';e={$_.Description | Get-Sentiment | Select -ExpandProperty OverallSentiment}}
