@@ -39,6 +39,11 @@
 | ChatOps with PowerShell | [Matthew Hodgkins](https://github.com/MattHodge) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Matthew%20Hodgkins/ChatOps%20with%20PowerShell/ChatOpsWithPowerShell.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Matthew%20Hodgkins/ChatOps%20with%20PowerShell/Demo.zip) |  |
 | DSC - From Commit to Production | [Flynn Bundy](https://github.com/flynnCoolblue) | English | [Slides - Waiting]() | [Demo Code](https://github.com/psconfeu/2017/blob/master/Flynn%20Bundy/DSC%20-%20From%20Commit%20to%20Production/DSC%20-%20From%20Commit%20to%20Production.zip) |  |
 | Getting Started with Windows Server Containers | [Flynn Bundy](https://github.com/flynnCoolblue) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Flynn%20Bundy/Getting%20Started%20with%20Windows%20Server%20Containers/Windows%20Server%20Containers.pptx) |  |  |
+| about_Containers #A note from the field | [Thorsten Butz](https://github.com/thorstenbutz) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Containers/psconfEU_aboutContainers_thorstenbutz.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Containers/Demo.zip) |  |
+| Was Sie schon immer über Fileserver wissen wollten, aber bisher nicht zu fragen wagten | [Thorsten Butz](https://github.com/thorstenbutz) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Fileserver/psconfEU_fileserver_thorstenbutz.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Fileserver/Demo.zip) |  |
+| Wer wird $hellionaire? | [Thorsten Butz](https://github.com/thorstenbutz) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Shellionaire/psconfEU_Shellionaire_thorstenbutz.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Shellionaire/Questions.zip) |  |
+|  |  |  | [Slides]() | [Demo Code]() |  |
+|  |  |  | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 
