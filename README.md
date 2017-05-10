@@ -42,8 +42,9 @@
 | about_Containers #A note from the field | [Thorsten Butz](https://github.com/thorstenbutz) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Containers/psconfEU_aboutContainers_thorstenbutz.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Containers/Demo.zip) |  |
 | Was Sie schon immer über Fileserver wissen wollten, aber bisher nicht zu fragen wagten | [Thorsten Butz](https://github.com/thorstenbutz) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Fileserver/psconfEU_fileserver_thorstenbutz.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Fileserver/Demo.zip) |  |
 | Wer wird $hellionaire? | [Thorsten Butz](https://github.com/thorstenbutz) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Shellionaire/psconfEU_Shellionaire_thorstenbutz.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Thorsten%20Butz/Shellionaire/Questions.zip) |  |
-|  |  |  | [Slides]() | [Demo Code]() |  |
-|  |  |  | [Slides]() | [Demo Code]() |  |
+| Deploying Nano Server with Lability | [Iain Brighton](https://github.com/iainbrighton) | English | [Slides]() | [Demo Code]() |  |
+| Integrating Lability in a CI Pipeline | [Iain Brighton](https://github.com/iainbrighton) | English | [Slides]() | [Demo Code]() |  |
+| Writing Effective Tests | [Iain Brighton](https://github.com/iainbrighton) | English | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 
