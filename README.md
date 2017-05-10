@@ -45,6 +45,8 @@
 | Deploying Nano Server with Lability | [Iain Brighton](https://github.com/iainbrighton) | English | [Slides]() | [Demo Code]() |  |
 | Integrating Lability in a CI Pipeline | [Iain Brighton](https://github.com/iainbrighton) | English | [Slides]() | [Demo Code]() |  |
 | Writing Effective Tests | [Iain Brighton](https://github.com/iainbrighton) | English | [Slides]() | [Demo Code]() |  |
+| Flip the Script | [Jared Atkinson](https://github.com/jaredcatkinson) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jared%20Atkinson/Flip%20the%20Script/FlipTheScript_Atkinson.pdf) |  | [GO!](https://youtu.be/8M30-58SjWE?list=PLDCEho7foSooHYGxYqUj2Q6C7usp4aKIQ) |
+| Porting Binary Modules | [Jared Atkinson](https://github.com/jaredcatkinson) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jared%20Atkinson/Porting%20Binary%20Modules/PortingBinaryModules_Atkinson.pdf) |  |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 
