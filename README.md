@@ -47,8 +47,8 @@
 | Writing Effective Tests | [Iain Brighton](https://github.com/iainbrighton) | English | [Slides]() | [Demo Code]() |  |
 | Flip the Script | [Jared Atkinson](https://github.com/jaredcatkinson) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jared%20Atkinson/Flip%20the%20Script/FlipTheScript_Atkinson.pdf) |  | [GO!](https://youtu.be/8M30-58SjWE?list=PLDCEho7foSooHYGxYqUj2Q6C7usp4aKIQ) |
 | Porting Binary Modules | [Jared Atkinson](https://github.com/jaredcatkinson) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jared%20Atkinson/Porting%20Binary%20Modules/PortingBinaryModules_Atkinson.pdf) |  |  |
+|  | [Esther Bartel](https://github.com/cognitionIT) | English | Slides [Part 1](https://github.com/psconfeu/2017/blob/master/Esther%20Barthel/NetScalerAutomationModule_Part1_PSConfEU2017.pdf) [Part 2](https://github.com/psconfeu/2017/blob/master/Esther%20Barthel/NetScalerAutomationNITRO_Part2_PSConfEU2017.pdf) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Esther%20Barthel/PS-NITRO.zip) |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
-
 
 
