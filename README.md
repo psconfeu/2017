@@ -2,8 +2,9 @@
 
 ## COMING SOON! Session slides, demo code and video links!
 
-**Note to Speakers**: 
-- Please add a folder with your name, and then make a folder below that for each of your sessions, putting the all of the demos for each session into a .zip file. 
+**Note to Speakers**:
+
+- Please add a folder with your name, and then make a folder below that for each of your sessions, putting the all of the demos for each session into a .zip file.
 - DO NOT update README.md with your sessions - one of us (Ravikanth or Amanda) will update the table after we accept your pull request. It's less work for us this way.
 - If you'd prefer not to mess with GitHub, give Amanda or Ravikanth a shout, and we'll add your session materials to the repository for you :)
 
@@ -48,7 +49,7 @@
 | Flip the Script | [Jared Atkinson](https://github.com/jaredcatkinson) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jared%20Atkinson/Flip%20the%20Script/FlipTheScript_Atkinson.pdf) |  | [GO!](https://youtu.be/8M30-58SjWE?list=PLDCEho7foSooHYGxYqUj2Q6C7usp4aKIQ) |
 | Porting Binary Modules | [Jared Atkinson](https://github.com/jaredcatkinson) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Jared%20Atkinson/Porting%20Binary%20Modules/PortingBinaryModules_Atkinson.pdf) |  |  |
 | NetScaler Automation Module - NITRO | [Esther Bartel](https://github.com/cognitionIT) | English | Slides [Part 1](https://github.com/psconfeu/2017/blob/master/Esther%20Barthel/NetScalerAutomationModule_Part1_PSConfEU2017.pdf) [Part 2](https://github.com/psconfeu/2017/blob/master/Esther%20Barthel/NetScalerAutomationNITRO_Part2_PSConfEU2017.pdf) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Esther%20Barthel/PS-NITRO.zip) |  |
-|  |  |  | [Slides]() | [Demo Code]() |  |
+| Working with binary file formats | [Øyvind Kallstad](https://github.com/gravejester) | English | [Slides](https://github.com/psconfeu/2017/blob/master/Øyvind%20Kallstad/Working%20With%20Binary%20FIle%20Formats/Øyvind%20Kallstad%20-%20Working%20with%20binary%20file%20formats.pptx) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Øyvind%20Kallstad/Working%20With%20Binary%20FIle%20Formats/WorkingWithBinaryFileFormats.zip) |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
 
 
