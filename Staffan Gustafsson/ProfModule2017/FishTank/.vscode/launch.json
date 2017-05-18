@@ -1,0 +1,43 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "PowerShell",
+            "request": "launch",
+            "name": "PowerShell Launch Pester Tests",
+            "script": "${workspaceRoot}/test/Fishtank.tests.ps1",
+            "args": [],
+            "cwd": "${workspaceRoot}/test"
+        },
+        {
+            "type": "PowerShell",
+            "request": "launch",
+            "name": "PowerShell Launch (debugHarness.ps1)",
+            "program": "${workspaceRoot}/debugHarness.ps1",
+            "args": [],
+            "cwd": "${workspaceRoot}"
+        },
+        {
+            "type": "PowerShell",
+            "request": "launch",
+            "name": "PowerShell build (build.psake.ps1)",
+            "script": "${workspaceRoot}/build/build.ps1",
+            "cwd": "${workspaceRoot}"
+        },
+        {
+            "type": "PowerShell",
+            "request": "launch",
+            "name": "PowerShell Launch (current file)",
+            "program": "${file}",
+            "args": [],
+            "cwd": "${file}"
+        },
+        {
+            "type": "PowerShell",
+            "request": "attach",
+            "name": "PowerShell Attach to Host Process",
+            "processId": "${command:PickPSHostProcess}",
+            "runspaceId": 1
+        }
+    ]
+}
