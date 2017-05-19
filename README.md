@@ -53,6 +53,9 @@
 | Pester 101 | [Rinon Belegu](https://github.com/rbelegu) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Rinon%20Belegu/Pester_101/Rinon.Belegu_Pester_101.pdf) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Rinon%20Belegu/Pester_101/Rinon.Belegu_DEMO_Pester_101.zip) |  |
 | Sind Sie auch eine Klasse für sich, Oder doch nur ein Objekt? | [Rinon Belegu](https://github.com/rbelegu) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Rinon%20Belegu/Sind_Sie_auch_eine_Klasse_f%C3%BCr_sich_Oder_doch_nur_ein_Objekt/Rinon.Belegu_Sind_Sie_auch_eine_Klasse_f%C3%BCr_sich_Oder_doch_nur_ein_Objekt.pdf) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Rinon%20Belegu/Sind_Sie_auch_eine_Klasse_f%C3%BCr_sich_Oder_doch_nur_ein_Objekt/Rinon.Belegu_DEMO_Sind_Sie_auch_eine_Klasse_f%C3%BCr_sich_Oder_doch_nur_ein_Objekt.zip) |  |
 | Verwalten von System Center Virtual Machine Manager 2016 mit PowerShell | [Rinon Belegu](https://github.com/rbelegu) | Deutsch | [Slides](https://github.com/psconfeu/2017/blob/master/Rinon%20Belegu/Verwalten_von_System_Center_Virtual_Machine_Manager_2016_mit_PowerShell/Rinon.Belegu_Verwalten_von_System_Center_Virtual_Machine_Manager_2016_mit_PowerShell.pdf) | [Demo Code](https://github.com/psconfeu/2017/blob/master/Rinon%20Belegu/Verwalten_von_System_Center_Virtual_Machine_Manager_2016_mit_PowerShell/Rinon.Belegu_DEMO_VMM2016.zip) |  |
+| PowerShell Performance - When Every ms Counts | [Staffan Gustafsson](https://github.com/powercode) | English | [Slides]() | [Demo Code]() |  |
+| Module Design - 9 Principles for Creating Stellar Modules | [Staffan Gustafsson](https://github.com/powercode) | English | [Slides]() | [Demo Code]() |  |
 |  |  |  | [Slides]() | [Demo Code]() |  |
-
+|  |  |  | [Slides]() | [Demo Code]() |  |
+|  |  |  | [Slides]() | [Demo Code]() |  |
 
