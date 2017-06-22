@@ -1,7 +1,5 @@
 # Session slides and demo scripts from PowerShell Conference EU, 2017
 
-## COMING SOON! Session slides, demo code and video links!
-
 **Note to Speakers**:
 
 - Please add a folder with your name, and then make a folder below that for each of your sessions, putting the all of the demos for each session into a .zip file.
