@@ -1,0 +1,1 @@
+﻿. $PSScriptRoot\Get-InstalledSoftware.ps1
